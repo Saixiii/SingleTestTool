@@ -1,5 +1,5 @@
 --
--- Create Schema Script 
+-- Create Schema Script
 --   Database Version          : 11.2.0.4.0 
 --   Database Compatible Level : 11.2.0.0.0 
 --   Script Compatible Level   : 11.2.0.0.0 
